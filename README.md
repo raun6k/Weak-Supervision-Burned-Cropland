@@ -140,7 +140,9 @@ If you use this work, please cite the [paper](papers/burned_area_mapping_paper.p
   title     = {Calibrated Weak Supervision for Post-Harvest Burned-Cropland Mapping Under Label Scarcity},
   author    = {Bhagate, Raunak and Polisetty, Maitri and Minu, R I},
   booktitle = {Proceedings of the 47th Asian Conference on Remote Sensing (ACRS 2026)},
-  year      = {2026}
+  year      = {2026},
+  eprint    = {2610.05040},
+  archivePrefix = {arXiv}
 }
 ```
 
