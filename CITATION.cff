@@ -1,8 +1,6 @@
 cff-version: 1.2.0
 message: >-
-  If you use this work, please cite the accompanying paper using the
-  preferred citation below. Experiment code and reproduction scripts
-  are included in this repository.
+  If you use this code, please cite the paper below.
 type: software
 title: "Calibrated Weak Supervision for Post-Harvest Burned-Cropland Mapping Under Label Scarcity"
 authors:
@@ -15,9 +13,9 @@ authors:
   - family-names: Minu
     given-names: R I
     affiliation: "SRM Institute of Science & Technology"
-repository-code: "https://github.com/raun6k/weak-supervision-burned-cropland"
+repository-code: "https://github.com/raun6k/Weak-Supervision-Burned-Cropland"
 preferred-citation:
-  type: unpublished
+  type: conference-paper
   title: "Calibrated Weak Supervision for Post-Harvest Burned-Cropland Mapping Under Label Scarcity"
   authors:
     - family-names: Bhagate
@@ -26,5 +24,8 @@ preferred-citation:
       given-names: Maitri
     - family-names: Minu
       given-names: R I
-  url: "https://github.com/raun6k/weak-supervision-burned-cropland/blob/main/papers/burned_area_mapping_paper.pdf"
-  notes: "Manuscript accompanying the experiment repository."
+  collection-title: "Proceedings of the 47th Asian Conference on Remote Sensing (ACRS 2026)"
+  conference:
+    name: "47th Asian Conference on Remote Sensing (ACRS 2026)"
+  year: 2026
+  url: "https://github.com/raun6k/Weak-Supervision-Burned-Cropland/blob/main/papers/burned_area_mapping_paper.pdf"
