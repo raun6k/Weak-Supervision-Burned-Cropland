@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: >-
   If you use this work, please cite the accompanying paper using the
-  preferred citation below. The experiment code is being prepared for release.
+  preferred citation below. Experiment code and reproduction scripts
+  are included in this repository.
 type: software
 title: "Calibrated Weak Supervision for Post-Harvest Burned-Cropland Mapping Under Label Scarcity"
 authors:
